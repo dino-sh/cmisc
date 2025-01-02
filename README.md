@@ -20,7 +20,7 @@ CMISC is a Windows batch script tool designed to simplify the creation and manag
 
 ### 1. Download CMISC
 
-Clone the repository or download the `CMISC.bat` script file directly.
+Clone the repository or download the `CMISC.bat` script file directly [here](https://github.com/dino-sh/cmisc/releases/tag/release).
 
 ```bash
 git clone https://github.com/dino-sh/cmisc.git
