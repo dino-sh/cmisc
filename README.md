@@ -23,7 +23,7 @@ CMISC is a Windows batch script tool designed to simplify the creation and manag
 Clone the repository or download the `CMISC.bat` script file directly.
 
 ```bash
-git clone https://github.com/your-username/CMISC.git
+git clone https://github.com/dino-sh/cmisc.git
 ```
 
 ### 2. Run the Script
